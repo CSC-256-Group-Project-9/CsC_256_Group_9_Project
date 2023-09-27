@@ -6,7 +6,7 @@
 
 ### Documentation
  - Nathaniel Leach
- - Stefan
+ - Stefan Slaczka
 ### Programmer
  - Anthony Epps
  - William Henderson
