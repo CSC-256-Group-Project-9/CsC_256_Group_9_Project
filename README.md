@@ -2,15 +2,15 @@
 #### Teams Channel: (insert link here)
 #### Teams Chat Link: (insert link here)
 
-
 ## Roles
 
 ### Documentation
- - TBD
- - TBD
+ - Nathaniel Leach
+ - Stefan
 ### Programmer
- - TBD
- - TBD
+ - Anthony Epps
+ - William Henderson
+ - John Branch
 ### Tester
- - TBD
- - TBD
+ - Owen Cawlfield
+ - David Smedbeg
