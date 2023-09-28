@@ -3,13 +3,16 @@
 #### Teams Chat Link: (insert link here)
 #### Team Tasks: [To Do List](https://github.com/users/Nate-is-Great/projects/1)
 
+## Repo List
+[Selenium Lab](https://github.com/CSC-256-Group-Project-9/Group-9-Selenium-Lab)
+
 ## Roles
 
 ### Documentation
- - Nathaniel Leach Email: ncleach@my.waketech.edu
+ - Nathaniel Leach - ncleach@my.waketech.edu
  - Stefan Slaczka
 ### Programmer
- - Anthony Epps
+ - Anthony Epps - adepps@my.waketech.edu
  - William Henderson
  - John Branch
 ### Tester
