@@ -1,5 +1,5 @@
 # CSC-256 Group 9 Project
-#### Teams Channel: (insert link here)
+#### Github Organization: ([Group 9](https://github.com/CSC-256-Group-Project-9))
 #### Teams Chat Link: (insert link here)
 #### Team Tasks: [To Do List](https://github.com/users/Nate-is-Great/projects/1)
 
