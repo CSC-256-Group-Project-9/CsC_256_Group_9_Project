@@ -8,10 +8,10 @@
 
 ## Roles
 
-### Documentation
+### Documentation Writer
  - Nathaniel Leach - ncleach@my.waketech.edu
  - Stefan Slaczka
-### Programmer
+### Developer
  - Anthony Epps - adepps@my.waketech.edu
  - William Henderson
  - John Branch
