@@ -6,7 +6,7 @@
 ## Roles
 
 ### Documentation
- - Nathaniel Leach
+ - Nathaniel Leach Email: ncleach@my.waketech.edu
  - Stefan Slaczka
 ### Programmer
  - Anthony Epps
