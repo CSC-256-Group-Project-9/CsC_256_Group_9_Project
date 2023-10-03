@@ -17,4 +17,4 @@
  - John Branch
 ### Tester
  - Owen Cawlfield
- - David Smedbeg
+ - David Smedberg - dasmedberg@my.waketech.edu
