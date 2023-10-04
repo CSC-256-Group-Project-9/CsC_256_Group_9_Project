@@ -11,6 +11,8 @@
 ### Documentation Writer
  - Nathaniel Leach - ncleach@my.waketech.edu
  - Stefan Slaczka
+ - Angelica West
+ - Zachary Walker - zswalker@my.waketech.edu
 ### Developer
  - Anthony Epps - adepps@my.waketech.edu
  - William Henderson
