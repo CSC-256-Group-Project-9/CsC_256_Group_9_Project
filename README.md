@@ -12,7 +12,6 @@
  - Nathaniel Leach - ncleach@my.waketech.edu
  - Stefan Slaczka
  - Angelica West
- - Zachary Walker - zswalker@my.waketech.edu
 ### Developer
  - Anthony Epps - adepps@my.waketech.edu
  - William Henderson
@@ -20,3 +19,4 @@
 ### Tester
  - Owen Cawlfield
  - David Smedberg - dasmedberg@my.waketech.edu
+ - Zachary Walker - zswalker@my.waketech.edu
